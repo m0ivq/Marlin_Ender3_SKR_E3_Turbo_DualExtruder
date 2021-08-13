@@ -1,3 +1,6 @@
+# About
+Fork of Marlin with configs set for my own Ender 3 with BTT SKR E3 Turbo mainboard and dual extruders. Just because I'm to lazy to keep copying over config files :)
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
